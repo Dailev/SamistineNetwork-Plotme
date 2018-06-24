@@ -88,7 +88,7 @@ Questions:
   thatguy who is your master: Not you
   thatguy what is cookie: Sweet and Sugary
   '!i am so mad': Take a chillpill
-  i am so mad: '/give %player% 370 1 {display:{Name:"§3§l§nChill Pill"}}'
+  i am so mad: '/give %player% 370 1 {display:{Name:"§3§lChill Pill"}}'
   why was six afraid of seven: Because seven was a registered six offender
   why was 6 afraid of 7: Because seven was a registered six offender
   why was six afraid of Se7ven: "He wasn't you are"
@@ -129,6 +129,9 @@ Questions:
   "I have a report": "If you want to send a report, please take a chatreport containing the players involved, plus any screenshots or evidence supporting your claim."
   
   "hello its me": Shh, I don't like that song.
+  "thatguy your mom gay": No u
+  "how do i go spawn": Try doing /spawn
+  "thatguy where is everyone": Maybe doing something productive with their lives.
   what happened to trusted: I ate it om nom nom
   what is pig latin: isThay isway igpay atinlay
   how use worldedit: http://wiki.sk89q.com/wiki/WorldEdit/Reference
